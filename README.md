@@ -21,7 +21,7 @@
     <a href="https://rocket.chat/">Rocket.Chat</a> - Communication Chat
   </li>
   <li>
-    <a href="https://kanboard.org/">Kanboard</a> - Project Management Softwarr
+    <a href="https://kanboard.org/">Kanboard</a> - Project Management Software
   </li>
   <li>
     <a href="https://etherpad.org/">Etherpad</a> - Customizable online editor for colaboration
