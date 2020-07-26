@@ -1,6 +1,6 @@
 # SOFTWARE for SMALL OFFICE PACK - LOCAL
 
-## Spesification For Everyone
+### Spesification For Everyone
 
 #### Text Editor
 <ul>
@@ -31,12 +31,12 @@
   </li>
 </ul>
 
-## File Sharing Local Storage
+### File Sharing Local Storage
 <ul>
   <li><a href="https://github.com/silverwind/droppy">Droppy</a> - Hosted File Storage</li>
 </ul>
 
-## Creative Software 
+### Creative Software 
 <ul>
   <li><a href="https://affinity.serif.com/en-gb/">Affinity Designer</a> - ($49.9)</li>
 </ul>
@@ -53,7 +53,7 @@
   <li><a href="">AWS</a> or <a href="">Digital Ocean</a></li>
 </ul>
 
-## Additional For Content and Marketing Company
+### Additional For Content and Marketing Company
 
 #### Content Management System
 <ul>
@@ -68,12 +68,12 @@
   <li>Youtube</li>
 </ul>
 
-## Accounting
+### Accounting
 <ul>
   <li>No Idea</li>
 </ul>
 
-## Human Resource
+### Human Resource
 <ul>
   <li>No Idea</li>
 </ul>
