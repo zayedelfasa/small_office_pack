@@ -13,6 +13,12 @@
   <li>
     <a href="https://github.com/wikimedia/mediawiki">Wiki</a> - For Documentation like SOP, etc.
   </li>
+  <li>
+    <a href="https://etherpad.org/">Etherpad</a> - Customizable online editor for collaboration
+  </li>
+  <li>
+    <a href="https://ethercalc.net/">EtherCalc</a> - Customizable online spreadsheet collaboration
+  </li>
 </ul>
 
 #### Productivity Communication
@@ -22,9 +28,6 @@
   </li>
   <li>
     <a href="https://kanboard.org/">Kanboard</a> - Project Management Software
-  </li>
-  <li>
-    <a href="https://etherpad.org/">Etherpad</a> - Customizable online editor for colaboration
   </li>
   <li>
     <a href="">Telegram</a> - Optional
