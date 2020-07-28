@@ -30,7 +30,10 @@
     <a href="https://kanboard.org/">Kanboard</a> - Project Management Software
   </li>
   <li>
-    <a href="">Telegram</a> - Optional
+    <a href="">Telegram</a> - Optional chat.
+  </li>
+  <li>
+    <a href="">Email</a> - Gmail for bussines
   </li>
 </ul>
 
