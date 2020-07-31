@@ -2,10 +2,13 @@
 
 ### Spesification For Everyone
 
-#### Text Editor
+#### Text Editor / Office
 <ul>
   <li>
     <a href="https://www.wps.com/">WPS Office</a> - Word, Presentation, and SpreadSheet
+  </li>
+  <li>
+    <a href="https://www.onlyoffice.com/">Only Office</a> - Word, Presentation, and SpreadSheet for cloud
   </li>
   <li>
     <a href="https://github.com/Automattic/simplenote-electron">Simple Note</a> - A Simple note for every worker.
