@@ -16,6 +16,12 @@
   <li>
     <a href="https://github.com/wikimedia/mediawiki">Wiki</a> - For Documentation like SOP, etc.
   </li>
+  <li>
+    <a href="https://etherpad.org/">Etherpad</a> - Customizable online editor for collaboration
+  </li>
+  <li>
+    <a href="https://ethercalc.net/">EtherCalc</a> - Customizable online spreadsheet collaboration
+  </li>
 </ul>
 
 #### Productivity Communication
@@ -27,10 +33,10 @@
     <a href="https://kanboard.org/">Kanboard</a> - Project Management Software
   </li>
   <li>
-    <a href="https://etherpad.org/">Etherpad</a> - Customizable online editor for colaboration
+    <a href="">Telegram</a> - Optional chat.
   </li>
   <li>
-    <a href="">Telegram</a> - Optional
+    <a href="">Email</a> - Gmail for bussines
   </li>
 </ul>
 
