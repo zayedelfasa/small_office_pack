@@ -23,3 +23,19 @@
     <a href="https://ethercalc.net/">EtherCalc</a> - Editor SpreadSheet yang dapat digunakan ketika rapat/ pertemuan kecil.
   </li>
 </ul>
+
+#### Produktifitas dalam komunikasi
+<ul>
+  <li>
+    <a href="https://rocket.chat/">Rocket.Chat</a> - Komunikasi dalam bentuk teks
+  </li>
+  <li>
+    <a href="https://kanboard.org/">Kanboard</a> - Untuk mencatat dan mengolah pekerjaan tim berbasis kanban.
+  </li>
+  <li>
+    <a href="">Telegram</a> - Komunikasi berbasis teks (optional), seperti WA.
+  </li>
+  <li>
+    <a href="">Email</a> - Email untuk bisnis dan Google.
+  </li>
+</ul>

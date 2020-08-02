@@ -30,7 +30,7 @@
     <a href="https://rocket.chat/">Rocket.Chat</a> - Communication Chat
   </li>
   <li>
-    <a href="https://kanboard.org/">Kanboard</a> - Project Management Software
+    <a href="https://kanboard.org/">Kanboard</a> - Project Management Software by Kanban Process
   </li>
   <li>
     <a href="">Telegram</a> - Optional chat.
